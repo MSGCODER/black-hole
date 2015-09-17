@@ -1,0 +1,167 @@
+@media (min-width:1440px){.container{width:1440px}}
+.container{
+	min-width: 750px;
+}
+.font1{
+	font-family: "Microsoft YaHei";
+	font-size: 14px;
+}
+.font2{
+	font-family: "Arial Regular";
+	font-size: 10px;
+}
+.font3{
+	font-family: "Microsoft YaHei";
+	font-size: 9px;
+}
+.font3-1{
+	font-family: "Microsoft YaHei";
+	font-size: 30px;
+}
+.font4{
+	font-family:"Microsoft YaHei";
+	font-size: 18px;
+}
+.font5{
+	font-family: "Lantinghei SC";
+	font-size: 18px;
+}
+.font6{
+	font-family: "Lantinghei SC Heavy";
+	font-size: 36px;
+}
+.font7{
+	font-family: "STFangsong";
+	font-size: 30px;
+}
+.font8{
+	font-family: "STFangsong";
+	font-size: 24px;
+}
+.font9{
+	font-family: "Heiti SC Light";
+	font-size: 12px;
+}
+.font10{
+	font-family: "Lantinghei SC Extralight";
+	font-size: 24px;
+}
+.font11{
+	font-family: "Heiti SC Light";
+	font-size: 14px;
+}
+
+.color1{
+	color: #ffffff;
+}
+.color2{
+	color:#000000;
+}
+.color3{
+	color: #2a2c2c;
+}
+.color4{
+	color: #5e5e5f;
+}
+.color5{
+	color: #7e7e7f;
+}
+.color6{
+	color:#6a6a6a;
+}
+.color7{
+	color: #ededec;
+}
+.fonthx1{
+	font-family: "STXihei";
+	font-size: 30px;
+	color: #6B6A6A;
+}
+.fonthx3{
+	font-family: "FZLTXHK";
+	font-size: 24PX;
+}
+.fonthx10{
+	font-family: "FZLTXHK";
+	font-size: 36PX;
+}
+.fonthx7{
+	font-family: "FZLTXHK";
+	font-size: 14PX;
+}
+.fonthx9{
+	font-family: "FZLTXHK";
+	font-size: 18PX;
+}
+.fonthx4{
+	font-family: "STHeitiSC Light";
+	font-size: 18px;
+}
+.fonthx8{
+	font-family: "STHeitiSC Light";
+	font-size: 14px;
+}
+.fonthx5{
+	font-family: "STSongti SC";
+	font-size: 36PX;
+	color: #4B4B4B;
+}
+.fonthx2{
+	font-family: "FangSong";
+	font-size: 30px;
+}
+.fonthx6{
+	font-family: "MicrosoftYaHei";
+	font-size: 18px;
+}
+.fonthx14{
+	font-family: "MicrosoftYaHei";
+	font-size: 24px;
+}
+.fonthx12{
+	font-family: "STSongti SC";
+	font-size: 36px;
+	color: #4B4B4B;
+}
+.fonthx13{
+	font-family: "STSongti SC";
+	font-size: 24px;
+	color: #4B4B4B;
+}
+.colorhx1{
+	color: #E6E6E6;
+}
+.colorhx2{
+	color: #565656;
+}
+.colorhx3{
+	color: #4B4B4B;
+}
+.btn-gray{
+	padding: 10px 30px;
+	background-image: url(../img/common/button2.png);
+	border: none;
+	border-radius: 4px;
+	opacity: 0.6;
+}
+.greyleft {
+	margin-bottom: -10px;
+}
+.page-footer {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.footer-menu {
+	margin-left: 140px;
+}
+.footer-menu a,.footer-menu a:hover,.footer-menu a:visited,.footer-menu a:active {
+	color: #000000;
+	text-decoration: none;
+}
+a, a:hover, a:visited, a:active {
+	text-decoration: none;
+}
+.container{
+	width: 1170px;
+}
+

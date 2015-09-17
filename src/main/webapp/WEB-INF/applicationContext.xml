@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <beans xmlns="http://www.springframework.org/schema/beans"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:context="http://www.springframework.org/schema/context"
+           xmlns:p="http://www.springframework.org/schema/p"
+           xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+    <context:annotation-config />
+    <!--<bean id="messageSource" class="org.springframework.context.support.ResourceBundleMessageSource">-->
+        <!--&lt;!&ndash; 国际化信息所在的文件名 &ndash;&gt;-->
+        <!--<property name="basename" value="properties.message"/>-->
+        <!--&lt;!&ndash; 如果在国际化资源文件中找不到对应代码的信息，就用这个代码作为名称  &ndash;&gt;-->
+        <!--<property name="useCodeAsDefaultMessage" value="true" />-->
+        <!--<property name="defaultEncoding" value="UTF-8" />-->
+    <!--</bean>-->
+
+    <!-- 配置c3p0数据源 -->
+    <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
+          destroy-method="close"
+          p:driverClass="com.mysql.jdbc.Driver"
+          p:jdbcUrl = "jdbc:mysql://120.26.53.31:3306/vodka_db"
+          p:user = "vodka"
+          p:password = "vodka"
+          p:maxPoolSize = "20"
+          p:minPoolSize = "5"
+          p:initialPoolSize = "5"
+          p:maxIdleTime = "30"/>
+
+    <!-- 配置hibernate -->
+    <bean id="sessionFactory"
+          class="org.springframework.orm.hibernate4.LocalSessionFactoryBean"
+          p:dataSource-ref="dataSource">
+        <property name="annotatedClasses">
+            <list>
+                <value>com.cheling.dao.entities.TestDriveInfo</value>
+            </list>
+        </property>
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.connection.url">jdbc:mysql://120.26.53.31:3306/vodka_db</prop>
+                <prop key="hibernate.connection.driver_class">com.mysql.jdbc.Driver</prop>
+                <prop key="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</prop>
+                <prop key="hibernate.hbm2ddl.auto">update</prop>
+                <prop key="hibernate.show_sql">true</prop>
+                <prop key="hibernate.connection.autocommit">true</prop>
+            </props>
+        </property>
+    </bean>
+
+</beans>

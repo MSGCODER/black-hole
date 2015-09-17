@@ -1,0 +1,235 @@
+.bodright {
+    border-right: solid 1px #d5d5d4;
+}
+
+.p1 {
+    width: 100%;
+    float: left;
+    background-color: #ededec;
+    padding-bottom: 60px;
+}
+
+.p2 {
+    width: 100%;
+    border: solid 1px #ededec;
+    background-color: #ffffff;
+    float: left;
+    padding-bottom: 60px;
+}
+
+.p3 {
+    padding-top: 50px;
+    clear: both;
+}
+
+.p4 {
+    padding-bottom: 69px;
+}
+
+.p6 {
+    width: 100%;
+    border: solid 1px #ededec;
+    float: left;
+    background-color: #ededec;
+    padding-bottom: 60px;
+}
+
+.p7 {
+    width: 100%;
+    float: left;
+    line-height: 30px;
+    background-color: #ffffff;
+    padding-bottom: 60px;
+}
+
+.wuyouservice-bottom {
+    margin-top: 30px;
+    float: left;
+}
+
+.service-induct-charge {
+    margin-top: 200px;
+    line-height: 30px;
+}
+
+.prouct-content-part3 {
+    width: 100%;
+    background-color: #ededec;
+    float: left;
+}
+
+.page_content_service {
+    margin-top: 40px;
+    float: left;
+}
+
+.title1 {
+    width: 100%;
+    margin-top: 60px;
+    text-align: center;
+    float: left;
+    clear: both;
+}
+
+.title2 {
+    text-align: left;
+    line-height: 30px;
+    opacity: 0.87;
+}
+
+.title3 {
+    margin-top: 20px;
+    text-align: center;
+    opacity: 0.87;
+}
+
+.page_service_botom {
+    margin-top: 60px;
+}
+
+.title5 {
+    width: 100%;
+    position: absolute;
+}
+
+.pic {
+    width: 100%;
+    position: absolute;
+}
+
+.pic-center {
+    line-height: 25px;
+    margin-top: 12%;
+    text-align: left;
+}
+
+.pic-center > ul > li {
+    list-style-type: disc;
+    color: #ffffff;
+
+}
+
+.title7 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #000000;
+}
+
+.top28 {
+    margin-top: 28px;
+}
+
+.top40 {
+    margin-top: 40px;
+}
+
+.safet-control {
+    width: 100%;
+    border: solid 1px #ededec;
+    float: left;
+    background-color: #ffffff;
+    padding-bottom: 60px;
+}
+
+.safet-control-line-picture {
+    background-color: #d5d5d4;
+    width: 100%;
+    height: 250px;
+}
+
+.car-intel-service {
+    width: 100%;
+    border: solid 1px #ededec;
+    float: left;
+    background-color: #ededec;
+}
+
+.car-intel-service-down {
+    margin-top: 60px;
+    float: left;
+}
+
+.car-intel-change {
+    margin-top: 130px;
+    padding-bottom: 60px;
+}
+
+.charge-typle {
+    width: 100%;
+    border: solid 1px #ededec;
+    float: left;
+    background-color: #ffffff;
+    padding-bottom: 60px;
+}
+
+.charge-typle-picture {
+    margin-top: 100px;
+}
+
+.xiangqing {
+    margin-top: 20px;
+    margin-right: 20px;
+    float: right;
+}
+
+.product-light-picture {
+    width: 100%;
+    height: 250px;
+    background-color: #7e7e7f;
+    opacity: 0.5;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 60px;
+    padding-top: 100px;
+}
+
+.product-light-induct {
+    margin-top: 100px;
+}
+
+.showecrosstab-btn {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.canshu-van-tab {
+    display: block;
+    margin-left: 2.5%;
+    float: left;
+}
+
+.canshu-pick-tab {
+    display: none;
+    margin: 0px 2.5%;
+    float: left;
+}
+
+.product-ecross-van-tab {
+    margin-top: 20px;
+    border: solid 1px #000000;
+    text-align: center;
+}
+
+.product-ecross-pick-tab {
+    margin-top: 20px;
+    border: solid 1px #000000;
+    text-align: center;
+}
+
+td, th {
+    padding: 4px;
+    border: solid 1px #000000;
+}
+
+.tab-td-1 {
+    text-align: left;
+    color: #ac2925;
+}
+.product-ecross-sign{
+    position: absolute;
+    top: 97px;
+    left:535px;
+    font-family: Microsoft YaHei;
+    font-size:30px;
+    color: rgb(33,33,34);
+}

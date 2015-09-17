@@ -1,0 +1,148 @@
+.title1 {
+    margin: 8px 31%;
+    float: left;
+}
+
+.title2 {
+    margin: 40px;
+}
+
+.title4 {
+    margin: 10px;
+    line-height: 24px;
+}
+
+.title6 {
+    margin-top: 35px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+.title10 {
+    margin-left: 50%;
+}
+
+.title8 {
+    margin-left: 50px;
+}
+
+.title9 {
+    margin-top: 150px;
+}
+
+.top50 {
+    margin-top: 55px;
+}
+
+.top80 {
+    margin-top: 80px;
+}
+
+.top20 {
+    margin-top: 20px;
+}
+
+.pd80 {
+    margin-top: 450px;
+}
+
+.page_body {
+    float: left;
+    text-align: center;
+    margin: 150px 0 60px 0;
+    width: 100%;
+}
+.page_body > .top50 >.col-col-md-4,.col-ms-4,.col-xs-4,
+.col-lg-4,.col-md-offset-2, .col-ms-offset-2, .col-xs-offset-2,.col-lg-offset-2 > ul > li {
+    margin-top: 5px;
+}
+.input_bg {
+    border: 0;
+    width: 450px;
+    height: 40px;
+    background-image: url(../img/test-driver/test_driver_bar.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.selecet_bg {
+    border: 0;
+    width: 450px;
+    height: 40px;
+    background-image: url(../img/test-driver/test_driver_bar.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.checkbox_bg {
+    border: 0;
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/test-driver/test_driver_bar.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.red_bton {
+    width: 120px;
+    padding: 8px;
+    line-height: 24px;
+    text-align: center;
+    background-image: url(../img/test-driver/test_driver_button.png);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.red_bton1 {
+    width: 295px;
+    padding: 8px;
+    line-height: 24px;
+    background-image: url(../img/test-driver/test_driver_button4.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.xuanze {
+    padding: 8px;
+    line-height: 24px;
+    background-image: url(../img/test-driver/test_driver_bar2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.selecet_car {
+    margin: 2px 0px;
+    width: 100%;
+    padding: 5px;
+}
+
+.btncenter {
+    margin: 9px 40%;
+}
+
+.comzixun {
+    width: 295px;
+    height: 60px;
+    padding: 8px;
+    line-height: 24px;
+    background-image: url(../img/test-driver/test_driver_button6.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.qqcom {
+    width: 295px;
+    padding: 8px;
+    line-height: 24px;
+    background-image: url(../img/test-driver/test_driver_button5.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.partditu{
+    float: left;
+    width: 100%;
+}
+.line-body{
+    width: 100%;
+    float: left;
+}

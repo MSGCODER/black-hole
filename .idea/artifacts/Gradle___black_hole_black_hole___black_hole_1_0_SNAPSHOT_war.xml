@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="Gradle : black-hole:black-hole : black-hole-1.0-SNAPSHOT.war">
-    <output-path>$PROJECT_DIR$/out/artifacts/black-hole</output-path>
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/black-hole</output-path>
     <properties id="gradle-properties">
       <options external-project-path="$PROJECT_DIR$" />
     </properties>
@@ -13,7 +13,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/black-hole/exploded/black-hole-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/build/classes/artifacts/black-hole/exploded/black-hole-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
       </element>
     </root>
   </artifact>

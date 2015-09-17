@@ -1,0 +1,205 @@
+
+.bodright {
+    border-right: solid 1px #d5d5d4;
+}
+
+.p1 {
+    width: 100%;
+    float: left;
+    background-color: #ededec;
+    padding-bottom: 60px;
+}
+
+.p2 {
+    width: 100%;
+    border: solid 1px #ededec;
+    background-color: #ffffff;
+    float: left;
+    padding-bottom: 60px;
+}
+
+.p3 {
+    padding-top: 50px;
+    clear: both;
+}
+
+.p4 {
+    padding-bottom: 69px;
+}
+
+.p6 {
+    width: 100%;
+    border: solid 1px #ededec;
+    float: left;
+    background-color: #ffffff;
+}
+
+.p7 {
+    width: 100%;
+    float: left;
+    background-color: #ededec;
+}
+
+.service-induct-charge {
+    margin-top: 200px;
+    line-height: 30px;
+}
+
+.prouct-content-part3 {
+    width: 100%;
+    background-color: #ededec;
+    float: left;
+}
+
+.prouct-png-lin-layout {
+    margin-top: 60px;
+}
+
+.page_content_service {
+    margin-top: 40px;
+    float: left;
+}
+
+.title1 {
+    width: 100%;
+    margin-top: 60px;
+    text-align: center;
+    float: left;
+    clear: both;
+}
+
+.title2 {
+    margin-top: 30px;
+    text-align: left;
+    line-height: 30px;
+    opacity: 0.87;
+}
+
+.title3 {
+    margin-top: 50px;
+    text-align: center;
+    opacity: 0.87;
+}
+
+.safet-control-line-star {
+    line-height: 25px;
+    margin-top: 10px;
+}
+.safet-control-line-star > .col-md-offset-1, .col-ms-offset-1,
+.col-xs-offset-1, .col-lg-offset-1 > .row > .line-star-half > li {
+    font-size: 14px;
+}
+.safet-control-line-star > .col-md-offset-1, .col-ms-offset-1,
+.col-xs-offset-1, .col-lg-offset-1 > .row > .line-star-half > li:nth-child(1) {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.canshupeizhi-botom {
+    width: 100%;
+    border: solid 1px #ededec;
+    float: left;
+    background-color: #ededec;
+    padding-bottom: 80px;
+}
+
+.page_service_botom {
+    padding-bottom: 60px;
+}
+
+.title5 {
+    background-image: url(../img/e_boss/bar2.png);
+    background-size: cover;
+    background-repeat: repeat;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    opacity: 0.3;
+}
+
+.title7 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #000000;
+}
+
+.top28 {
+    margin-top: 28px;
+}
+
+.top40 {
+    margin-top: 40px;
+}
+
+.safet-control {
+    width: 100%;
+    border: solid 1px #ededec;
+    float: left;
+    background-color: #ffffff;
+    padding-bottom: 60px;
+}
+
+.car-intel-service {
+    width: 100%;
+    border: solid 1px #ededec;
+    float: left;
+    background-color: #ededec;
+}
+
+.car-intel-service-down {
+    background-image: url(../img/e_cool/pic-5-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.car-intel-change {
+    margin-top: 130px;
+    padding-bottom: 60px;
+}
+
+.charge-typle {
+    width: 100%;
+    border: solid 1px #ededec;
+    float: left;
+    background-color: #ffffff;
+    padding-bottom: 60px;
+}
+
+.charge-typle-picture {
+    margin-top: 100px;
+}
+
+.xiangqing {
+    margin-top: 20px;
+    margin-right: 20px;
+    float: right;
+}
+
+.canshu-suv-tab {
+    margin: 0 8%;
+    float: left;
+}
+
+.product-ecool-suv-tab {
+    margin-top: 50px;
+    border: solid 1px #000000;
+    text-align: center;
+}
+
+td, th {
+    padding: 4px;
+    border: solid 1px #000000;
+}
+
+.tab-td-1 {
+    text-align: left;
+    color: #ac2925;
+}
+
+.product-ecool-sign{
+    position: absolute;
+    top: 125px;
+    left:500px;
+    font-family: Microsoft YaHei;
+    font-size:30px;
+    color: rgb(233,233,233);
+}

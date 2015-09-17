@@ -1,0 +1,45 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:mvc="http://www.springframework.org/schema/mvc" xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd ">
+
+    <context:component-scan base-package="com.cheling.web"/>
+    <context:component-scan base-package="com.cheling.dao"/>
+    <!-- 配置多语言拦截器，拦截global下面的所有路径-->
+    <!--<mvc:interceptors>-->
+        <!--<mvc:interceptor>-->
+            <!--<mvc:mapping path="/global/**"/>-->
+            <!--<bean id="localeChangeInterceptor" class="org.springframework.web.servlet.i18n.LocaleChangeInterceptor">-->
+                <!--<property name="paramName" value="langType"/>-->
+            <!--</bean>-->
+        <!--</mvc:interceptor>-->
+    <!--</mvc:interceptors>-->
+
+    <!--<bean id="localeResolver" class="org.springframework.web.servlet.i18n.CookieLocaleResolver" >-->
+        <!--<property name="cookieName" value="cheling_lang"></property>-->
+        <!--<property name="cookieMaxAge" value="2592000"></property>-->
+        <!--<property name="defaultLocale" value=""></property>-->
+        <!--<property name="cookiePath" value="/"></property>-->
+    <!--</bean>-->
+
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver"
+          p:contentType="text/html;charset=UTF-8"
+          p:prefix="/WEB-INF/classes/html/"
+          p:suffix=".html" />
+
+    <mvc:resources mapping="/img/**" location="/WEB-INF/classes/img/"/>
+    <mvc:resources mapping="/css/**" location="/WEB-INF/classes/css/"/>
+    <mvc:resources mapping="/js/**" location="/WEB-INF/classes/js/"/>
+    <mvc:resources mapping="/font/**" location="/WEB-INF/classes/font/"/>
+    <mvc:resources mapping="/i18n/**" location="/WEB-INF/classes/i18n/"/>
+    <mvc:resources mapping="/favicon.ico" location="/WEB-INF/classes/img/favicon.ico"/>
+    <mvc:annotation-driven/>
+
+</beans>

@@ -1,0 +1,123 @@
+
+.title1{
+	margin: 8px 28%;
+	/*float: left;*/
+}
+
+.title4{
+	margin-top:100px;
+}
+.top40{
+	margin-top: 40px;
+}
+.title5{
+	margin-top: 44px;
+	margin-left: 325px;
+}
+.linheigh30{
+	line-height: 30px;
+}
+
+.title2{
+	margin: 0px 5% 15px;
+	display: inline-block;
+	/*float: left;*/
+}
+.title3{
+	margin-top: 0px;
+	/*margin-left: 22%;*/
+}
+
+.title7{
+	margin-top: 10px;
+	margin-left: 200px;
+	margin-right: 50px;
+	float: left;
+}
+.p1{
+	width: auto;
+	background-color: #ffffff;
+}
+
+.greyleft1{
+	margin-left: 40px;
+	float: left;
+}
+.lin_return{
+	margin: 80px 0;
+	width: 100%;
+	float: left;
+}
+.return_btn{
+	padding: 12px 38px;
+	background-image: url(../img/common/button2.png);
+	border: none;
+	border-radius: 4px;
+	opacity: 0.5;
+	margin-left: 3%;
+}
+.btom10{
+	margin-bottom: 10px;
+}
+.mini{
+	margin:0;
+	opacity: 0.87;
+}
+.mini > .bar{
+	margin: 2px 30px;
+	opacity: 0.87;
+}
+
+/*
+add by gsm
+*/
+@media (min-width: 1170px) {
+	.container {
+		width: 1170px;
+	}
+}
+.container {
+	min-width: 750px;
+}
+
+.info_article{
+	font-family: "Microsoft YaHei";
+	font-size: 14px;
+	line-height:30px;
+	text-align: left;
+	margin-left: 18%;
+	width: 64%;
+	margin-right: 18%;
+}
+.info_article > img {
+	width: 730px;
+}
+.vertical_space{
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	float: left;
+}
+
+.article_point{
+	display: inline-block;
+	text-align: center;
+	width: 74%;
+}
+.article_point_half{
+	width: 50%;
+	float: left;
+}
+.article_point_half > a {
+	margin: 0 10%;
+	color: #000000;
+}
+.info_article > .active_img{
+	width: 100%;
+}
+.info_article>.active_img > img {
+	width: 46%;
+	height: 220px;
+	margin: 0 2%;
+	float: left;
+}
