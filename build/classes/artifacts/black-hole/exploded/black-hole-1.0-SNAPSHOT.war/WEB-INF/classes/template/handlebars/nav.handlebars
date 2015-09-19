@@ -1,0 +1,35 @@
+<div class="logo">
+    <a href="/">
+        <img src="../img/e_boss/logo.png" />
+    </a>
+</div>
+<div class="nav1">
+{{#each this }}
+	{{#if active}}
+		<div class="menu">
+        	<a href="javascript:void(0)">
+        	    <ul class="active">
+        			<li class="font1 global_nav global_hidden_CN" style="color:#FFFFFF;">{{cname}}</li>
+        			<li class="font2 global_english_style" style="color:#FFFFFF;"><font size="2">e</font>{{ename}}</li>
+        		</ul>
+        	</a>
+        </div>
+	{{else}}
+		<div class="menu">
+			<a href="{{url}}">
+			    <ul>
+					<li class="font1 global_nav global_hidden_CN">{{cname}}</li>
+					<li class="font2 global_english_style"><font size="2">e</font>{{ename}}</li>
+				</ul>
+			</a>
+		</div>
+	{{/if}}
+{{/each}}
+</div>
+<div  class="select_box">
+    <select  id="conversionCode" onchange="chooseConversionCode()">
+        <option class="selected" value='zn-CN'>简体中文</option>
+        <option value='zn-TW'>繁体中文</option>
+        <option value='en-US'>English</option>
+    </select>
+</div>

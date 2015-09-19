@@ -2,306 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13242d6a-457f-401f-a83a-eb4254b8b9b8" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\404.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\500.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\admin\testDriveInfo.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\about.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\changjiang.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\charge.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\infor_qiye_active_1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\infor_qiye_active_2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\infor_qiye_active_3.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\infor_qiye_medi_1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\infor_qiye_medi_2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\infor_qiye_medi_3.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\infor_qiye_news_1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\infor_qiye_news_2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\infor_qiye_news_3.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\information.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\job.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\job_desc.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\law.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\sale_service.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\tecnologecenter.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\company\test-driver.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\product\eboss.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\product\ecool.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\product\ecross.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\product\eglory.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\html\product\ezone.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\404\icons.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\about\about_bigpic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\about\about_bigpic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\about\about_enterprise_architecture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\about\about_pic-map.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\about\about_pic-map.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\changjiang\changjiang_banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\changjiang\changjiang_banner.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\charge\charge_chart.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\charge\charge_chart.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\charge\charge_map.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\charge\charge_map.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\charge\charge_pic-product.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\charge\charge_pic-product.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\charge\charge_pic-product2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\charge\charge_pic-product2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\button2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\flag.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\found_bar.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\icon1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\icon2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\icon3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\nav.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\pic1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\pic2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\common\zixun2_v.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\bar2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\button2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\car-left.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\car-left.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\car-right.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\car-right.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\down-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\down-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\down-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\down-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\e-boss-photo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\e-boss-photo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\language-btn.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\language-click.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\photo1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\photo2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\photo2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\photo3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\photo3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\photo4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\photo4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\photo5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\photo5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\photo6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\photo6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic-7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic4-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic4-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic4-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\pic4-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\up-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\up-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\up-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_boss\up-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\e-cool.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\e-cool.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-1-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-1-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-2-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-2-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-3-7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-4-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-4-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-4-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-5-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-5-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-5-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-5-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-6-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-6-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-6-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-6-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-7-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cool\pic-7-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\e-cross.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\e-cross.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic-5-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic-5-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic-5-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic-5-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic-product1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic-product1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic-product2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic-product2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\pic2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\up-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\up-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\up-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_cross\up-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\banner.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\car-left.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\car-left.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\car-right.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\car-right.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\photo1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\pic1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\pic2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\pic3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\pic3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\pic4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_glory\pic5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\e-zone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\e-zone.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-1-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-1-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-2-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-2-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-3-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-3-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-3-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-3-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-3-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-3-4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-3-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-3-5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-4-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-4-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-5-2_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-5-2_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-5-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-5-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-6-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-6-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-6-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-6-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-6-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-6-4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-7-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-7-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-7-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-7-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-7-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\e_zone\pic-7-4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\banner-e-cool.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\btn-changjing.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\buy.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\e-boss.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\e-cool.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\e-cross.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\e-glory.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\e-max.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\e-zone.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\flag.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\h.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\language-btn.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\language-click.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\test-drive.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\index\v.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\1.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\active_9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\medi_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\medi_2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\news\medi_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\button-yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\icon1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\icon2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\icon3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_a.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_b.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_banner.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_bar.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_bar2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_button-red.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_lookfor.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_map.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_map.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_pic-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_pic1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_pic3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\sale_service\sale_service_pic4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\tecnologecenter\pic-2-tecnologycenter.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\tecnologecenter\pic-2-tecnologycenter.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\test-driver\test_driver_banner-e-cool.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\test-driver\test_driver_banner-e-cool.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\test-driver\test_driver_bar.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\test-driver\test_driver_bar2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\test-driver\test_driver_button.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\test-driver\test_driver_button3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\test-driver\test_driver_button4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\test-driver\test_driver_button5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\test-driver\test_driver_button6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\test-driver\test_driver_pic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jiukk\git_test\black-hole\src\main\resources\img\test-driver\test_driver_pic.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\black-hole.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\out\artifacts\black-hole\exploded\black-hole-1.0-SNAPSHOT.war\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\java\com\cheling\dao\HqlDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\java\com\cheling\dao\IDao.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\java\com\cheling\dao\IHqlDao.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\java\com\cheling\dao\TestDriveInfoDao.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\java\com\cheling\dao\entities\TestDriveInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\java\com\cheling\web\WebController.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\about-us.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\about.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\bootstrap-datetimepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\charge.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\common.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\commqita.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\company-page.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\eboss.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\ecool.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\ecross.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\eglory.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\enterprise_info.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\error.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\ezone.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\infor_qiye_1.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\information.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\job.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\job_desc.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\law.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\product.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\sale_service.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\tecnologecenter.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\css\test-driver.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\i18n\strings_en-US.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\i18n\strings_zn-CN.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\i18n\strings_zn-TW.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\bootstrap-datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\bootstrap-datetimepicker.zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\global.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\handlebars.runtime.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\index_changeimg.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\jquery-2.1.4.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\jquery.i18n.properties-min-1.0.9.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\showecrosstab.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\stickUp.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\templates.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\templates\footer.hbs.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\templates\nav.hbs.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\resources\js\templates\tab.hbs.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\webapp\WEB-INF\applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\webapp\WEB-INF\mvc-dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\webapp\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\git_place\black-hole\src\main\webapp\index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___black_hole_black_hole___black_hole_1_0_SNAPSHOT_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___black_hole_black_hole___black_hole_1_0_SNAPSHOT_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___black_hole_black_hole___black_hole_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___black_hole_black_hole___black_hole_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="black-hole.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -317,7 +94,41 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="black-hole" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Dependencies" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="black-hole" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -325,7 +136,98 @@
     <favorites_list name="black-hole" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.464286">
+              <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cheling/web/WebController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4532374">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.535714">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="33" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDriveInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/dao/entities/TestDriveInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mvc-dispatcher-servlet.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.142858">
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Jsp File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -443,7 +345,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="2884975956002" />
+        <entry key="$PROJECT_DIR$" value="2885071725626" />
         <entry key="E:/gitProject/fanta" value="2881178188030" />
         <entry key="E:/gitProject/vodka" value="2880025086512" />
         <entry key="E:/git_workspace/vodka" value="2879588956433" />
@@ -461,6 +363,34 @@
                   <entry key="$PROJECT_DIR$">
                     <value>
                       <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.0.RELEASE/spring-web-4.2.0.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.5.RELEASE/spring-webmvc-4.1.5.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.36/mysql-connector-java-5.1.36.jar" />
+                            <option value="$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar" />
+                            <option value="$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+                          </list>
+                        </option>
                         <option name="path" value="$PROJECT_DIR$" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
@@ -539,14 +469,33 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/note" />
+        <option value="$PROJECT_DIR$/src/main/resources/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/common.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error/500.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error/404.jsp" />
+        <option value="$PROJECT_DIR$/../gradle/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../gradle/src/main/java/com/cheling/dao/entities/TestDriveInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cheling/web/WebController.java" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -555,14 +504,74 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="black-hole" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="org.hibernate:hibernate:3.5.4-Final" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="black-hole" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="black-hole" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="black-hole" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
   <component name="NamedScopeManager">
     <order />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -571,7 +580,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -587,7 +596,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -620,12 +628,30 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="black-hole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="black-hole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -673,10 +699,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cheling" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -698,31 +720,46 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cheling" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git_place\black-hole\src\main\webapp\WEB-INF\img" />
+      <recent name="D:\git_place\black-hole\src\main\resources\css" />
       <recent name="C:\Users\jiukk\git_test\black-hole\src\main" />
       <recent name="C:\Users\jiukk\git_test\black-hole\src\main\webapp\WEB-INF" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git_place\black-hole\src\main" />
+      <recent name="D:\git_place\black-hole\src\main\webapp" />
+      <recent name="D:\git_place\black-hole\src\main\webapp\WEB-INF" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.tomcat8">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -981,8 +1018,86 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration default="false" name="tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.121" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : black-hole:black-hole : black-hole-1.0-SNAPSHOT.war (exploded)">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_black-hole_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51732" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : black-hole:black-hole : black-hole-1.0-SNAPSHOT.war (exploded)" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.tomcat8" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="13242d6a-457f-401f-a83a-eb4254b8b9b8" name="Default" comment="" />
@@ -991,44 +1106,58 @@
       <updated>1442488199801</updated>
       <workItem from="1442488202985" duration="507000" />
       <workItem from="1442538054539" duration="48000" />
+      <workItem from="1442639191330" duration="9404000" />
+      <workItem from="1442657187420" duration="838000" />
+      <workItem from="1442658059916" duration="242000" />
+      <workItem from="1442658321779" duration="4343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="555000" />
+    <option name="totallyTimeSpent" value="15382000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19427083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30503145" sideWeight="0.46486092" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29874215" sideWeight="0.11346999" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.49707174" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28257686" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29874215" sideWeight="0.88653004" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.088579796" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.49707174" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1037,7 +1166,209 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cheling/web/WebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cheling/web/WebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cheling/web/WebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1054,19 +1385,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cheling/dao/entities/TestDriveInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/dao/entities/TestDriveInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/js/global.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/global.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1074,7 +1403,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,53 +1417,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="464" column="21" selection-start-line="464" selection-start-column="21" selection-end-line="464" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-bin/ca0flae0itb57he40lyj6fhpp/gradle-2.2/lib/gradle-core-2.2.jar!/org/gradle/api/artifacts/dsl/RepositoryHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.071429">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error/500.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5859031">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/hibernate/hibernate/3.5.4-Final/hibernate-3.5.4-Final.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46004844">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-7.464286">
+          <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cheling/dao/entities/TestDriveInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-8.142858">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/js/global.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error/404.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.142858">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.535714">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="33" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dao/entities/TestDriveInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cheling/web/WebController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30022573">
-          <caret line="45" column="83" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="83" />
-          <folding />
+        <state vertical-scroll-proportion="0.4532374">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
   </component>
 </project>

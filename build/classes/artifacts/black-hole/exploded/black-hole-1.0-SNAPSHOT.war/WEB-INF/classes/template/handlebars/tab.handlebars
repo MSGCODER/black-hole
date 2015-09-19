@@ -1,0 +1,17 @@
+{{#num count}}
+    {{#each tabs}}
+        <div class="line-btn-seven bodright">
+            <div class="navbtn">
+                <span><a href="javascript:void(0)" class="tabGlabal" title="{{url}}">{{text}}</a></span>
+            </div>
+        </div>
+    {{/each}}
+{{else}}
+    {{#each tabs}}
+        <div class="line-btn-six bodright">
+            <div class="navbtn">
+                <span><a href="javascript:void(0)" class="tabGlabal" title="{{url}}">{{text}}</a></span>
+            </div>
+        </div>
+    {{/each}}
+{{/num}}
