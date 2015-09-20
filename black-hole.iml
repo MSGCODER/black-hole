@@ -65,5 +65,8 @@
     <orderEntry type="library" exported="" name="Gradle: xml-apis:xml-apis:1.0.b2" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.springframework:spring-context-support:4.2.0.RELEASE" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.slf4j:slf4j-api:1.5.8" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.springframework:spring-orm:4.2.0.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.springframework:spring-jdbc:4.2.0.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.springframework:spring-tx:4.2.0.RELEASE" level="project" />
   </component>
 </module>

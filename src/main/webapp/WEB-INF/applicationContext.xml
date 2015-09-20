@@ -26,24 +26,24 @@
           p:maxIdleTime = "30"/>
 
     <!-- 配置hibernate -->
-    <!--<bean id="sessionFactory"-->
-          <!--class="org.springframework.orm.hibernate4.LocalSessionFactoryBean"-->
-          <!--p:dataSource-ref="dataSource">-->
-        <!--<property name="annotatedClasses">-->
-            <!--<list>-->
-                <!--<value>com.cheling.dao.entities.TestDriveInfo</value>-->
-            <!--</list>-->
-        <!--</property>-->
-        <!--<property name="hibernateProperties">-->
-            <!--<props>-->
-                <!--<prop key="hibernate.connection.url">jdbc:mysql://localhost:3306/black_hole</prop>-->
-                <!--<prop key="hibernate.connection.driver_class">com.mysql.jdbc.Driver</prop>-->
-                <!--<prop key="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</prop>-->
-                <!--<prop key="hibernate.hbm2ddl.auto">update</prop>-->
-                <!--<prop key="hibernate.show_sql">true</prop>-->
-                <!--<prop key="hibernate.connection.autocommit">true</prop>-->
-            <!--</props>-->
-        <!--</property>-->
-    <!--</bean>-->
+    <bean id="sessionFactory"
+          class="org.springframework.orm.hibernate4.LocalSessionFactoryBean"
+          p:dataSource-ref="dataSource">
+        <property name="annotatedClasses">
+            <list>
+                <value>com.cheling.dao.entities.TestDriveInfo</value>
+            </list>
+        </property>
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.connection.url">jdbc:mysql://localhost:3306/black_hole</prop>
+                <prop key="hibernate.connection.driver_class">com.mysql.jdbc.Driver</prop>
+                <prop key="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</prop>
+                <prop key="hibernate.hbm2ddl.auto">update</prop>
+                <prop key="hibernate.show_sql">true</prop>
+                <prop key="hibernate.connection.autocommit">true</prop>
+            </props>
+        </property>
+    </bean>
 
 </beans>
