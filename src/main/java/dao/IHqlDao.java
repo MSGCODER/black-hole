@@ -1,4 +1,4 @@
-package com.cheling.dao;
+package dao;
 
 import org.hibernate.HibernateException;
 

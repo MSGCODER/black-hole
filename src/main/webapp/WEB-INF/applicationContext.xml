@@ -18,8 +18,8 @@
           destroy-method="close"
           p:driverClass="com.mysql.jdbc.Driver"
           p:jdbcUrl = "jdbc:mysql://localhost:3306/black_hole"
-          p:user = "vodka"
-          p:password = "vodka"
+          p:user = "msgcoder"
+          p:password = "msgcoder"
           p:maxPoolSize = "20"
           p:minPoolSize = "5"
           p:initialPoolSize = "5"
@@ -29,11 +29,11 @@
     <bean id="sessionFactory"
           class="org.springframework.orm.hibernate4.LocalSessionFactoryBean"
           p:dataSource-ref="dataSource">
-        <property name="annotatedClasses">
-            <list>
-                <value>com.cheling.dao.entities.TestDriveInfo</value>
-            </list>
-        </property>
+        <!--<property name="annotatedClasses">-->
+            <!--<list>-->
+                <!--<value>com.cheling.dao.entities.ArtWorke>-->
+            <!--</list>-->
+        <!--</property>-->
         <property name="hibernateProperties">
             <props>
                 <prop key="hibernate.connection.url">jdbc:mysql://localhost:3306/black_hole</prop>

@@ -1,4 +1,4 @@
-package com.cheling.dao;
+package dao;
 
 /**
  * Created by jiukk on 2015/9/1.
@@ -10,7 +10,7 @@ import org.hibernate.Session;
 /**
  * DAO接口
  * 该类只是提供一个公用接口，以便HQL查询与SQL查询重写与重用
- * 具体实现接口有IDao_Hql.java和IDao_Sql.java
+ * 具体实现接口有HqlDao.java
  */
 
 public interface IDao {
