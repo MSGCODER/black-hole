@@ -1,4 +1,4 @@
-package dao;
+package com.msgcoder.dao;
 
 import org.hibernate.HibernateException;
 import org.hibernate.Query;

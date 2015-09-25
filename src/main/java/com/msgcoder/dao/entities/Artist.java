@@ -1,4 +1,4 @@
-package dao.entities;
+package com.msgcoder.dao.entities;
 
 import java.util.Date;
 

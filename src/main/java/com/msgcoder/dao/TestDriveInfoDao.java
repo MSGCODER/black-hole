@@ -1,6 +1,6 @@
-package dao;
+package com.msgcoder.dao;
 
-import dao.entities.ArtWork;
+import com.msgcoder.dao.entities.ArtWork;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

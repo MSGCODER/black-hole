@@ -1,4 +1,4 @@
-package dao.entities;
+package com.msgcoder.dao.entities;
 
 import javax.persistence.*;
 import java.util.Date;
@@ -14,7 +14,7 @@ public class ArtWork {
     private String linkUrl;
     private String tag;
     private String company;
-
+    private String country;
 
     public ArtWork(){}
 

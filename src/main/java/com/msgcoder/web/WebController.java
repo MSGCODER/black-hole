@@ -1,4 +1,4 @@
-package com.cheling.web;
+package com.msgcoder.web;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
