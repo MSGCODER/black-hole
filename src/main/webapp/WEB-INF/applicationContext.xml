@@ -22,11 +22,13 @@
     <bean id="sessionFactory"
           class="org.springframework.orm.hibernate4.LocalSessionFactoryBean"
           p:dataSource-ref="dataSource">
-        <!--<property name="annotatedClasses">-->
-            <!--<list>-->
-                <!--<value>com.cheling.dao.entities.ArtWorke>-->
-            <!--</list>-->
-        <!--</property>-->
+        <property name="annotatedClasses">
+            <list>
+                <value>com.msgcoder.dao.entities.ArtWork</value>
+                <value>com.msgcoder.dao.entities.Artist</value>
+                <value>com.msgcoder.dao.entities.Play</value>
+            </list>
+        </property>
         <property name="hibernateProperties">
             <props>
                 <prop key="hibernate.connection.url">jdbc:mysql://localhost:3306/black_hole</prop>
@@ -38,5 +40,7 @@
             </props>
         </property>
     </bean>
+    <!-- 配置spring mvc 文件上传 -->
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver"/>
 
 </beans>

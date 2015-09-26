@@ -18,11 +18,11 @@
           p:prefix="/WEB-INF/views/"
           p:suffix=".jsp" />
 
-    <mvc:resources mapping="/img/**" location="/WEB-INF/img/"/>
-    <mvc:resources mapping="/css/**" location="/WEB-INF/css/"/>
-    <mvc:resources mapping="/js/**" location="/WEB-INF/js/"/>
-    <mvc:resources mapping="/fonts/**" location="/WEB-INF/fonts/"/>
-    <mvc:resources mapping="/favicon.ico" location="/WEB-INF/img/favicon.ico"/>
+    <mvc:resources mapping="/img/**" location="/WEB-INF/classes/img/"/>
+    <mvc:resources mapping="/css/**" location="/WEB-INF/classes/css/"/>
+    <mvc:resources mapping="/js/**" location="/WEB-INF/classes/js/"/>
+    <mvc:resources mapping="/fonts/**" location="/WEB-INF/classes/fonts/"/>
+    <mvc:resources mapping="/favicon.ico" location="/WEB-INF/classes/img/favicon.ico"/>
     <mvc:annotation-driven/>
 
 </beans>

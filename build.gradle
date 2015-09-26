@@ -28,7 +28,7 @@ dependencies {
 
     // springmvc-libs
     compile "org.springframework:spring-web:$springVersion"
-//    compile "org.springframework:spring-webmvc:$springVersion"
+    //    compile "org.springframework:spring-webmvc:$springVersion"
     compile "org.springframework:spring-webmvc:4.1.5.RELEASE"
 
     // database-libs
@@ -36,6 +36,10 @@ dependencies {
     compile 'c3p0:c3p0:0.9.1.2'
     compile 'org.hibernate:hibernate:3.5.4-Final'
     compile 'org.hibernate:hibernate-core:4.3.11.Final'
+
+    // file-upload-libs
+    compile 'commons-io:commons-io:2.2'
+    compile 'commons-fileupload:commons-fileupload:1.3.1'
 
 //    compile 'ch.qos.logback:logback-classic:1.1.2'
 //    compile "org.springframework:spring-expression:$springVersion"

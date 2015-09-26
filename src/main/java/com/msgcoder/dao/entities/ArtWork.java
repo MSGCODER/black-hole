@@ -9,12 +9,13 @@ public class ArtWork {
     private int id;
     private String serialNo;
     private String title;
-    private String desc;
-    private String imgUrl;
+    private String cover;
     private String linkUrl;
     private String tag;
     private String company;
     private String country;
+    private String description;
+    private Date createTime;
 
     public ArtWork(){}
 
@@ -47,22 +48,22 @@ public class ArtWork {
         this.title = title;
     }
     @Basic
-    @Column(name = "desc")
-    public String getDesc() {
-        return desc;
+    @Column(name = "description")
+    public String getDescription() {
+        return description;
     }
 
-    public void setDesc(String desc) {
-        this.desc = desc;
+    public void setDescription(String description) {
+        this.description = description;
     }
     @Basic
-    @Column(name = "img_url")
-    public String getImgUrl() {
-        return imgUrl;
+    @Column(name = "cover")
+    public String getCover() {
+        return cover;
     }
 
-    public void setImgUrl(String imgUrl) {
-        this.imgUrl = imgUrl;
+    public void setCover(String cover) {
+        this.cover = cover;
     }
     @Basic
     @Column(name = "link_url")
@@ -90,5 +91,40 @@ public class ArtWork {
 
     public void setCompany(String company) {
         this.company = company;
+    }
+
+    @Basic
+    @Column(name="create_time")
+    public Date getCreateTime() {
+        return createTime;
+    }
+
+    public void setCreateTime(Date createTime) {
+        this.createTime = createTime;
+    }
+
+    @Basic
+    @Column(name = "country")
+    public String getCountry() {
+        return country;
+    }
+
+    public void setCountry(String country) {
+        this.country = country;
+    }
+
+    @Override
+    public String toString() {
+        return "ArtWork{" +
+                "id=" + id +
+                ", serialNo='" + serialNo + '\'' +
+                ", title='" + title + '\'' +
+                ", desc='" + description + '\'' +
+                ", imgUrl='" + cover + '\'' +
+                ", linkUrl='" + linkUrl + '\'' +
+                ", tag='" + tag + '\'' +
+                ", company='" + company + '\'' +
+                ", country='" + country + '\'' +
+                '}';
     }
 }

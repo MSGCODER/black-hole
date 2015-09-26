@@ -10,7 +10,6 @@ import java.util.List;
  */
 public interface IHqlDao extends IDao {
     // 插入一条数据
-
     Serializable save(Object obj) throws HibernateException;
 
     // 删除一条数据

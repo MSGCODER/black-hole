@@ -17,4 +17,9 @@ public class WebController {
         return "index";
     }
 
+    @RequestMapping(value = "/artwork", method = RequestMethod.GET)
+    public String artwork(){
+        return "artwork";
+    }
+
 }
