@@ -24,9 +24,9 @@
           p:dataSource-ref="dataSource">
         <property name="annotatedClasses">
             <list>
-                <value>com.msgcoder.dao.entities.ArtWork</value>
-                <value>com.msgcoder.dao.entities.Artist</value>
-                <value>com.msgcoder.dao.entities.Play</value>
+                <value>com.msgcoder.entities.ArtWork</value>
+                <value>com.msgcoder.entities.Artist</value>
+                <value>com.msgcoder.entities.Play</value>
             </list>
         </property>
         <property name="hibernateProperties">

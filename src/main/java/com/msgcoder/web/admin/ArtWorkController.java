@@ -1,7 +1,7 @@
 package com.msgcoder.web.admin;
 
-import com.msgcoder.dao.ArtWorkDao;
-import com.msgcoder.dao.entities.ArtWork;
+import com.msgcoder.entities.ArtWork;
+import com.msgcoder.service.BaseService;
 import com.msgcoder.util.Uploader;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
-
 import javax.servlet.http.HttpServletRequest;
 import java.io.PrintWriter;
 import java.io.Serializable;
@@ -20,10 +19,10 @@ import java.util.Date;
  * Created by guanshiming on 2015/9/26.
  */
 @Controller
-@RequestMapping(value = "/admin/artwork", method = RequestMethod.GET)
+@RequestMapping(value = "/admin/artwork")
 public class ArtWorkController {
     @Autowired
-    private ArtWorkDao artWorkDao;
+    private BaseService<ArtWork> baseService;
 
     @RequestMapping(value = "", method = RequestMethod.GET)
     public String index(){
@@ -43,7 +42,7 @@ public class ArtWorkController {
             artWork.setCover(imgUrl);
         }
         artWork.setCreateTime(new Date());
-        Serializable id = artWorkDao.save(artWork);
+        Serializable id = baseService.save(artWork);
         writer.write("success");
     }
 

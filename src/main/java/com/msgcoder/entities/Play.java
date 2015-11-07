@@ -1,4 +1,4 @@
-package com.msgcoder.dao.entities;
+package com.msgcoder.entities;
 
 import javax.persistence.*;
 

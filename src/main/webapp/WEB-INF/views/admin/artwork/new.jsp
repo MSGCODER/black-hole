@@ -23,7 +23,7 @@
         <div class="form-group">
             <label for="file" class="col-sm-2 control-label">封面</label>
             <div class="col-sm-10">
-                <input type="file" class="form-control" id="file" name="file" placeholder="封面">
+                <input type="file" class="" id="file" name="file" placeholder="封面">
             </div>
         </div>
         <div class="form-group">
